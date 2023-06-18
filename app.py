@@ -20,7 +20,7 @@ import cv2
 app = Flask(__name__)
 
 # Model saved with Keras model.save()
-MODEL_PATH = 'ml_models/model.h5'
+MODEL_PATH = 'models/model.h5'
 
 # Load your trained model
 model = load_model(MODEL_PATH)
