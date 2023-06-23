@@ -15,7 +15,7 @@ The following technologies were used in this project:
 - [PyTorch](https://pytorch.org/)
 - [Matplotlib](https://matplotlib.org/stable/index.html)
 - [Seaborn](https://seaborn.pydata.org/)
-- [OpenCY](https://opencv.org/)
+- [OpenCV](https://opencv.org/)
 
 ## Pipeline
 1. **Data Preparation and Preprocessing:**
