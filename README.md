@@ -25,12 +25,12 @@ The following technologies were used in this project:
    - Heatmap generation provided insights for further analysis.
 
 <p  align="center">
-<img src="https://github.com/pateldivyam26/COVID-Detection-using-X-Ray-Images/assets/79200448/4669f04e-10be-4310-9c64-081c48b1444a" alt="form"><br>
+<img src="https://github.com/pateldivyam26/COVID-Detection-using-X-Ray-Images/blob/main/assets/sample.png" alt="form"><br>
 <i>Fig. 1: Chest X-Ray Image</i>
 </p>
 <p  align="center">
-<img src="https://github.com/pateldivyam26/COVID-Detection-using-X-Ray-Images/assets/79200448/fc1eba9a-c581-41aa-bbc0-0531efbb426f" alt="form">
-<img src="https://github.com/pateldivyam26/COVID-Detection-using-X-Ray-Images/assets/79200448/a06e1131-a396-436b-a1c8-34e27f016180" alt="form"><br>
+<img src="https://github.com/pateldivyam26/COVID-Detection-using-X-Ray-Images/blob/main/assets/sample_covid.png" alt="form">
+<img src="https://github.com/pateldivyam26/COVID-Detection-using-X-Ray-Images/blob/main/assets/sample_noncovid.png" alt="form"><br>
 <i>Fig. 2: Heatmap of Images</i>
 </p>
 
@@ -57,11 +57,11 @@ For more details, please refer to the [project report](https://github.com/pateld
 
 ## Deployment
 <p  align="center">
-<img src="https://github.com/pateldivyam26/COVID-Detection-using-X-Ray-Images/assets/79200448/68cf6428-785f-49cd-a9b4-ef07f313b41a" width = "960px" alt="form"><br>
+<img src="https://github.com/pateldivyam26/COVID-Detection-using-X-Ray-Images/blob/main/assets/app_main.jpeg" width = "960px" alt="form"><br>
 <i>Fig. 3: Home Page</i>
 </p>
 <p  align="center">
-<img src="https://github.com/pateldivyam26/COVID-Detection-using-X-Ray-Images/assets/79200448/ef7c1752-0e94-4bd6-b105-c2eafae49ae9" width = "960px" alt="form"><br>
+<img src="https://github.com/pateldivyam26/COVID-Detection-using-X-Ray-Images/blob/main/assets/app_result.jpeg" width = "960px" alt="form"><br>
 <i>Fig. 4: Result Page</i>
 </p>
 
